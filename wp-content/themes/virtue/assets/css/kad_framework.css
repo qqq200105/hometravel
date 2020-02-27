@@ -854,18 +854,18 @@ td.visible-print, th.visible-print {display: none !important;}
 	h2, h3 {page-break-after: avoid;}
 	.col-md-1, .col-md-10, .col-md-11, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9, .tcol-md-1, .tcol-md-10, .tcol-md-11, .tcol-md-2, .tcol-md-3, .tcol-md-4, .tcol-md-5, .tcol-md-6, .tcol-md-7, .tcol-md-8, .tcol-md-9 {float: left !important;}
 	.col-md-12, .tcol-md-12 {width: 100% !important;}
-	.col-md-11, .tcol-md-11 {width: 91.666666666667% !important;}
-	.col-md-10, .tcol-md-10 {width: 83.333333333333% !important;}
+	.col-md-11, .tcol-md-11 {width: 91.6666666667% !important;}
+	.col-md-10, .tcol-md-10 {width: 83.3333333333% !important;}
 	.col-md-9, .tcol-md-9 {width: 75% !important;}
-	.col-md-8, .tcol-md-8 {width: 66.666666666667% !important;}
-	.col-md-7, .tcol-md-7 {width: 58.333333333333% !important;}
+	.col-md-8, .tcol-md-8 {width: 66.6666666667% !important;}
+	.col-md-7, .tcol-md-7 {width: 58.3333333333% !important;}
 	.col-md-6, .tcol-md-6 {width: 50% !important;}
-	.col-md-5, .tcol-md-5 {width: 41.666666666667% !important;}
-	.col-md-4, .tcol-md-4 {width: 33.333333333333% !important;}
+	.col-md-5, .tcol-md-5 {width: 41.6666666667% !important;}
+	.col-md-4, .tcol-md-4 {width: 33.3333333333% !important;}
 	.col-md-3, .tcol-md-3 {width: 25% !important;}
 	.col-md-25, .tcol-md-25 {width: 20% !important;}
-	.col-md-2, .tcol-md-2 {width: 16.666666666667% !important;}
-	.col-md-1, .tcol-md-1 {width: 8.3333333333333% !important;}
+	.col-md-2, .tcol-md-2 {width: 16.6666666667% !important;}
+	.col-md-1, .tcol-md-1 {width: 8.33333333333% !important;}
 	.navbar {display: none;}
 	.table td, .table th {background-color: #fff !important;}
 	.btn>.caret, .dropup>.btn>.caret {border-top-color: #000 !important;}

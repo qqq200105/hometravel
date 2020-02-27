@@ -149,11 +149,11 @@ html[dir=rtl] .select2-search-choice-close {right: auto;left: 3px;}
 [class*=" icon-"]:before, [class^=icon-]:before {text-decoration: inherit;display: inline-block;speak: none;}
 .icon-large:before {vertical-align: -10%;font-size: 1.33333333em;}
 a [class*=" icon-"], a [class^=icon-] {display: inline;}
-[class*=" icon-"].icon-fixed-width, [class^=icon-].icon-fixed-width {display: inline-block;width: 1.1428571428571em;text-align: right;padding-right: .28571429em;}
+[class*=" icon-"].icon-fixed-width, [class^=icon-].icon-fixed-width {display: inline-block;width: 1.14285714286em;text-align: right;padding-right: .28571429em;}
 [class*=" icon-"].icon-fixed-width.icon-large, [class^=icon-].icon-fixed-width.icon-large {width: 1.42857143em;}
-.icons-ul {margin-left: 2.1428571428571em;list-style-type: none;}
+.icons-ul {margin-left: 2.14285714286em;list-style-type: none;}
 .icons-ul>li {position: relative;}
-.icons-ul .icon-li {position: absolute;left: -2.14285714em;width: 2.1428571428571em;text-align: center;line-height: inherit;}
+.icons-ul .icon-li {position: absolute;left: -2.14285714em;width: 2.14285714286em;text-align: center;line-height: inherit;}
 [class*=" icon-"].hide, [class^=icon-].hide {display: none;}
 .icon-muted {color: #eee;}
 .icon-light {color: #fff;}
